@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/drawable/color.xml" value="0.3675" />
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/drawable/custom_seekbar.xml" value="0.3555" />
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/drawable/delgadezleve.xml" value="0.3675" />
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/drawable/delgadezmoderada.xml" value="0.295" />
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/drawable/layout.xml" value="0.295" />
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/drawable/normal.xml" value="0.295" />
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/drawable/obesidadleve.xml" value="0.295" />
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/drawable/obesidadmedia.xml" value="0.295" />
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/drawable/obesidadmorbida.xml" value="0.295" />
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/drawable/preobesidad.xml" value="0.295" />
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/drawable/thumbs.xml" value="0.271" />
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/layout/activity_main.xml" value="0.3076923076923077" />
+        <entry key="..\:/proyectos/Calculadora IMC/app/src/main/res/layout/layout_dialog.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
